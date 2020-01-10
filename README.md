@@ -1,3 +1,3 @@
 # Comprobar señal wifi
 
-[Inicio](coberturawifi/Actividad1/ComprobarSeñalWifi.md)
+[Inicio](https://serrogard.github.io/coberturawifi/Actividad1/ComprobarSeñalWifi)
