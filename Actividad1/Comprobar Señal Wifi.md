@@ -13,7 +13,7 @@ Una vez visto como utilizar cada programa, procederemos a realizar la siguiente 
 [Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/SeñalWifi)
 
 
-[Actividad 2](https://serrogard.github.io/coberturawifi/Actividad1/A.2comprobación.md)
+[Actividad 2](https://serrogard.github.io/coberturawifi/Actividad1/A.2comprobación)
 
 
 
