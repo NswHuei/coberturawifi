@@ -11,6 +11,7 @@ Vamos a utilizar los programas: **"Wifi Analyzer"** y **"Acrylic Wifi Home"**, a
 Una vez visto como utilizar cada programa, procederemos a realizar la siguiente actividad:
 
 [Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/SeñalWifi)
+[Actividad 2](https://gamepau.github.io/comprobacionwifi/Actividad1/SeñalWifi)
 
 
 
